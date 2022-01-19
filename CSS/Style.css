@@ -67,7 +67,7 @@ img{
 }
 
 .brand {
-    text-transform: capitalize;
+    text-transform:uppercase;
 }
 
 .price {
